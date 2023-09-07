@@ -1,4 +1,5 @@
 # learn-shell
 
-Bash sShell Scripting
+Bash Shell Scripting
 
+Here the list of topics
