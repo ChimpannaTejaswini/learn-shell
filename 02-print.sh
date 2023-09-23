@@ -1,3 +1,2 @@
-Echo Hello World
-Echo Happy World
-h
+echo Hello World
+echo Happy World
